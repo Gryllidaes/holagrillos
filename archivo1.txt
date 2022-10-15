@@ -1,7 +1,0 @@
-Primera linea desde vscodes
-<<<<<<< HEAD
-Segundo linea
-Tercera linea probar desde el nano
-=======
-segundo linea
->>>>>>> 15315fe265c675d93d594c8753693a64ab1b806b
