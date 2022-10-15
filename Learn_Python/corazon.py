@@ -1,3 +1,5 @@
-from tkinter import N
-from arepl_dump import dump
-print(input("haciendo pruebas de que imprimir: "))
+#ALL THE VALUES
+
+print("definir los alores: ")
+input(methane)
+
