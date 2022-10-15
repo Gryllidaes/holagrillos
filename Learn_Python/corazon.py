@@ -2,4 +2,3 @@
 
 print("definir los alores: ")
 input(methane)
-
