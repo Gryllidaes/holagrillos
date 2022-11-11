@@ -1,4 +1,5 @@
 #ALL THE VALUES
 
-print("definir los alores: ")
-input(methane)
+print("definir los valoress: ")
+nombre = input()
+print(nombre)
