@@ -1,5 +1,6 @@
 #ALL THE VALUES
 
-print("definir los valoress: ")
-nombre = input()
-print(nombre)
+x = int(input("definir primer valor: "))
+y = int(input("definir segundo valor: "))
+
+print(x + y)
